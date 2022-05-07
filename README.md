@@ -1,2 +1,3 @@
-# weather
-🌤 CSS Weather
+# 🌤 Weather
+
+> Pure CSS Art
